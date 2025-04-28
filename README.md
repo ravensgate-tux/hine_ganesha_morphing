@@ -5,24 +5,12 @@
 原著の精神を尊重しつつ、日本語訳＋注解を付した形で再構成・公開しています。
 この公開は、オープンソース魔術（Open Source Witchcraft）の理念に則り、非営利・教育的目的で行われます。
 
-## 🇬🇧 GANESHA DEMON-MORPHING
-
-Place yourself in a comfortable position, perform any preferred relaxation exercise, and give attention to your bodily sensations. Close your eyes and turn your mind inwards, towards your belly. Feel that part of your body to be a void, filled with red mist. As you breathe in and out, imagine the form of elephant-headed Ganesha taking shape within your belly. Repeat internally the mantra "Om Ganapati Namah."
-
-Once Ganesha has formed inside you, imagine that you are becoming yourself an image of Ganesha—your nose lengthens to become a trunk, your ears become those of an elephant—feel your body outline changing. When this metamorphosis is complete, turn your attention once again inwards, and then visualise a situation which stirs the evocation of a demon within yourself. See the situation occurring within your belly and see yourself there in it. Be aware of body sensations, but still any thoughts and identifications that arise. Let your breathing become slow and deep, and be aware of how your body feels as pure sensation, without an identification or label.
-
-Slowly, feel that physical sensation to be one of pleasure—a growing sense of joyfulness which you can relax into. Feel that sensation as a source of power, and allow that power to build up inside you until, finally, you have to give voice to it. Repeat the sound that issues from you. A word or mantra may form. If it does, keep hold of it in your mind. At this point, begin the so-called 'Elephant Dance' which is named from the habit of elephants moving their heads from side to side at a watering-hole. Allow your head to loll from side to side, keeping your neck-muscles loose, and move your torso left and right. This movement prevents residual tension settling into the body following the catharsis of the above exercise.
-
-This exercise is useful for Demon work in two ways. Firstly, you can use it to free yourself from the grip of a demonic response that continues long after the initial trigger-event has passed. Secondly, by mentally projecting a situation where a demon might arise, you are learning to identify the characteristic thoughts, feelings, and behavior appropriate to that demon, and so become aware of when you are allowing its responses to carry you away. Once you know the points of the feedback loops, it is easier to break out of them.
-
-It is useful, for this kind of work, that Ganesha is very much a Playful God as it seems to be most effective to approach most kinds of Ego magic from a condition of Playful Relaxation than Grim Determination.
-
 ---
 
 ## GANESHA 
 
 <div align="center">
-  <img src="hine_ganesha.png" width="500">
+  <img src="hine_ganesha.png" width="400">
 </div>
 
 ---
@@ -44,6 +32,20 @@ It is useful, for this kind of work, that Ganesha is very much a Playful God as 
 
 デーモン・ワークの心得：
 デーモン・ワークとは、内的な生のエネルギー──怒り、恐怖、欲望、悲しみといった感情反応を抑圧するのではなく、意識的に認識し、統合する作業を指す。デーモンは敵ではなく、気づきと変容のための教師である。魔術的自己鍛錬においては、これらの原始的パターンを恐れることなく受け止め、自己の力として昇華する姿勢が求められる。
+
+---
+
+## 🇬🇧 GANESHA DEMON-MORPHING
+
+Place yourself in a comfortable position, perform any preferred relaxation exercise, and give attention to your bodily sensations. Close your eyes and turn your mind inwards, towards your belly. Feel that part of your body to be a void, filled with red mist. As you breathe in and out, imagine the form of elephant-headed Ganesha taking shape within your belly. Repeat internally the mantra "Om Ganapati Namah."
+
+Once Ganesha has formed inside you, imagine that you are becoming yourself an image of Ganesha—your nose lengthens to become a trunk, your ears become those of an elephant—feel your body outline changing. When this metamorphosis is complete, turn your attention once again inwards, and then visualise a situation which stirs the evocation of a demon within yourself. See the situation occurring within your belly and see yourself there in it. Be aware of body sensations, but still any thoughts and identifications that arise. Let your breathing become slow and deep, and be aware of how your body feels as pure sensation, without an identification or label.
+
+Slowly, feel that physical sensation to be one of pleasure—a growing sense of joyfulness which you can relax into. Feel that sensation as a source of power, and allow that power to build up inside you until, finally, you have to give voice to it. Repeat the sound that issues from you. A word or mantra may form. If it does, keep hold of it in your mind. At this point, begin the so-called 'Elephant Dance' which is named from the habit of elephants moving their heads from side to side at a watering-hole. Allow your head to loll from side to side, keeping your neck-muscles loose, and move your torso left and right. This movement prevents residual tension settling into the body following the catharsis of the above exercise.
+
+This exercise is useful for Demon work in two ways. Firstly, you can use it to free yourself from the grip of a demonic response that continues long after the initial trigger-event has passed. Secondly, by mentally projecting a situation where a demon might arise, you are learning to identify the characteristic thoughts, feelings, and behavior appropriate to that demon, and so become aware of when you are allowing its responses to carry you away. Once you know the points of the feedback loops, it is easier to break out of them.
+
+It is useful, for this kind of work, that Ganesha is very much a Playful God as it seems to be most effective to approach most kinds of Ego magic from a condition of Playful Relaxation than Grim Determination.
 
 ---
 
