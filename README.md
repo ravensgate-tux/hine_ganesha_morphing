@@ -22,16 +22,6 @@
 
 ---
 
-### 🐌 「知られざる呪術師」による注釈
-
-デーモンについて：
-本書における「デーモン」とは、キリスト教的な「悪魔」を指すのではなく、個人の無意識に潜在する生の感情エネルギーや行動パターンを象徴する存在である。古代ギリシア思想において「ダイモーン（Daemon）」は、善悪を超えた中間存在、あるいは個人に付随する守護的エネルギーを意味する。本文ではこのニュアンスに則り、「デーモン」という表記を採用している。
-
-デーモン・ワークの心得：
-デーモン・ワークとは、内的な生のエネルギー──怒り、恐怖、欲望、悲しみといった感情反応を抑圧するのではなく、意識的に認識し、統合する作業を指す。デーモンは敵ではなく、気づきと変容のための教師である。魔術的な自己鍛錬においては、これらの原始的パターンを恐れることなく受け止め、自己の力として昇華する姿勢が求められる。
-
----
-
 ## 🇬🇧 GANESHA DEMON-MORPHING
 
 >Place yourself in a comfortable position, perform any preferred relaxation exercise, and give attention to your bodily sensations. Close your eyes and turn your mind inwards, towards your belly. Feel that part of your body to be a void, filled with red mist. As you breathe in and out, imagine the form of elephant-headed Ganesha taking shape within your belly. Repeat internally the mantra "Om Ganapati Namah."
@@ -43,6 +33,16 @@
 >This exercise is useful for Demon work in two ways. Firstly, you can use it to free yourself from the grip of a demonic response that continues long after the initial trigger-event has passed. Secondly, by mentally projecting a situation where a demon might arise, you are learning to identify the characteristic thoughts, feelings, and behavior appropriate to that demon, and so become aware of when you are allowing its responses to carry you away. Once you know the points of the feedback loops, it is easier to break out of them.
 >
 >It is useful, for this kind of work, that Ganesha is very much a Playful God as it seems to be most effective to approach most kinds of Ego magic from a condition of Playful Relaxation than Grim Determination.
+
+---
+
+### 🐌 「知られざる呪術師」による注釈
+
+デーモンについて：
+本書における「デーモン」とは、キリスト教的な「悪魔」を指すのではなく、個人の無意識に潜在する生の感情エネルギーや行動パターンを象徴する存在である。古代ギリシア思想において「ダイモーン（Daemon）」は、善悪を超えた中間存在、あるいは個人に付随する守護的エネルギーを意味する。本文ではこのニュアンスに則り、「デーモン」という表記を採用している。
+
+デーモン・ワークの心得：
+デーモン・ワークとは、内的な生のエネルギー──怒り、恐怖、欲望、悲しみといった感情反応を抑圧するのではなく、意識的に認識し、統合する作業を指す。デーモンは敵ではなく、気づきと変容のための教師である。魔術的な自己鍛錬においては、これらの原始的パターンを恐れることなく受け止め、自己の力として昇華する姿勢が求められる。
 
 ---
 
