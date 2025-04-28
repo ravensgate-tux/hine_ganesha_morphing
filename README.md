@@ -1,10 +1,5 @@
 # 🐘 ガネーシャ・デーモン・モーフィング　（Fil Hine方式）
 
-⚖️【出典について】
-本書に収録した「ガネーシャ・デーモン・モーフィング」のエクササイズは、フィル・ハイン著『Condensed Chaos』（1995年版、Phil Hine、p.166–167）に掲載された内容に基づいています。
-原著の精神を尊重しつつ、日本語訳＋注解を付した形で再構成・公開しています。
-この公開は、オープンソース魔術（Open Source Witchcraft）の理念に則り、非営利・教育的目的で行われます。
-
 ---
 
 ## GANESHA 
@@ -46,6 +41,15 @@ Slowly, feel that physical sensation to be one of pleasure—a growing sense of 
 This exercise is useful for Demon work in two ways. Firstly, you can use it to free yourself from the grip of a demonic response that continues long after the initial trigger-event has passed. Secondly, by mentally projecting a situation where a demon might arise, you are learning to identify the characteristic thoughts, feelings, and behavior appropriate to that demon, and so become aware of when you are allowing its responses to carry you away. Once you know the points of the feedback loops, it is easier to break out of them.
 
 It is useful, for this kind of work, that Ganesha is very much a Playful God as it seems to be most effective to approach most kinds of Ego magic from a condition of Playful Relaxation than Grim Determination.
+
+---
+
+### ⚖️この文書について
+
+⚖️【出典について】
+本書に収録した「ガネーシャ・デーモン・モーフィング」のエクササイズは、フィル・ハイン著『Condensed Chaos』（1995年版、Phil Hine、p.166–167）に掲載された内容に基づいています。
+原著の精神を尊重しつつ、日本語訳＋注解を付した形で再構成・公開しています。
+この公開は、オープンソース魔術（Open Source Witchcraft）の理念に則り、非営利・教育的目的で行われます。
 
 ---
 
