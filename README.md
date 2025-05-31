@@ -70,6 +70,8 @@
 
 上図の「GANESHA—BINDER OF DEMONS」は、Phil Hine著『Condensed Chaos』（1995年版, p.166–167）に収録された挿絵です。著作権は原著者に帰属します。本Zineでは教育目的かつ非営利の「フェアユース／引用」の範囲内で掲載しています。
 
+[Condensed Chaos: An Introduction to Chaos Magic](https://www.amazon.com/Condensed-Chaos-Introduction-Magic/dp/1935150669)
+
 ---
 
 ## 🐌 こちらもご覧ください
