@@ -76,7 +76,7 @@
 
 <div align="center">
 
-Amazon.co.jp ⏩ [Condensed Chaos: An Introduction to Chaos Magic](https://www.amazon.com/Condensed-Chaos-Introduction-Magic/dp/1935150669)
+Amazon.co.jp ⏩ [Condensed Chaos: An Introduction to Chaos Magic / Phil Hine (著), Peter J. Carroll (はしがき)](https://www.amazon.co.jp/Condensed-Chaos-Introduction-Occult-Studies/dp/1935150669)
 
 </div>
 
