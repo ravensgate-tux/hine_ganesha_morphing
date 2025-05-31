@@ -68,9 +68,11 @@
 
 ### 🖼️ 画像についての注記
 
-<div align="left">
+<div align="center">
   <img src="condensed_chaos.jpg" width="300">
 </div>
+
+<br>
 
 Amazon.co.jp ⏩ [Condensed Chaos: An Introduction to Chaos Magic](https://www.amazon.com/Condensed-Chaos-Introduction-Magic/dp/1935150669)
 
