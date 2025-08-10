@@ -69,7 +69,7 @@
 ### 🖼️ 画像についての注記
 
 <div align="center">
-  <img src="condensed_chaos.jpg" width="300">
+  <img src="condensed_chaos.jpg" width="200">
 </div>
 
 <br>
