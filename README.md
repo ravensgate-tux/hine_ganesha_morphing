@@ -6,6 +6,11 @@
 原著の精神を尊重しつつ、日本語訳＋注解を付した形で再構成・公開している。
 この公開は、オープンソース魔術（Open Source Witchcraft）の理念に則り、非営利・教育的目的で行われる。
 
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
+
 ---
 
 ## GANESHA 
