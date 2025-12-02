@@ -92,14 +92,9 @@ Amazon.co.jp ⏩ [Condensed Chaos: An Introduction to Chaos Magic / Phil Hine (�
 
 ---
 
-## 🐌 こちらもご覧ください
-
-このページは、作成済み、制作途中、制作予定のものに簡単にアクセスできるメインメニューです。
-大量の情報が見やすく表示されています。
-
-[📚 Le Sorcier Inconnuの書架──翻訳と注釈の目録](https://github.com/ravensgate-tux/sorcier_catalogue/blob/main/README.md)
+こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
-
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
+
